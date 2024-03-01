@@ -158,6 +158,8 @@ footer h3 {
   font-size: 2em;
   color: white;
   margin-bottom: 1em;
+  font-weight: bold;
+  font-family: "Montserrat", sans-serif;
 }
 
 footer ol {
@@ -170,4 +172,11 @@ footer p {
 
 footer i {
   margin-right: 0.5em;
+}
+
+footer hr {
+  display: block;
+  margin-left: 7em;
+  margin-right: 7em;
+  margin-bottom: 2em;
 }
