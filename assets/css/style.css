@@ -4,6 +4,7 @@
 
 body {
   max-width: 500px;
+  min-width: 380px;
   color: #393d41;
   font-family: "Open Sans", sans-serif;
   line-height: 1.65em;
